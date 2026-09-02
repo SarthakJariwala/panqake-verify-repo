@@ -1,1 +1,2 @@
 seed
+pqv-github-live-3-auth github-live-3
